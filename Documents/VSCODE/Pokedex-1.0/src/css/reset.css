@@ -1,0 +1,12 @@
+/* Reset da página */
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex-box;
+}
+/* lista */
+ul{ 
+    /* estilo da lista = 0  */
+    list-style: none;
+}
