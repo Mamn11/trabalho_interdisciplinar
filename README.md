@@ -75,4 +75,3 @@ Este é um aplicativo móvel da Pokédex desenvolvido em Flutter que permite aos
 [Letícia Moreira](https://github.com/leticiaaamoreira)
 
 
-faça uma divisão entre as imagens
