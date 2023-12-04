@@ -43,20 +43,20 @@ Este é um aplicativo móvel da Pokédex desenvolvido em Flutter que permite aos
 
 ## Como Usar
 
-1. *Clone o Repositório:* Clone este repositório para sua máquina local.
+1 - *Clone o Repositório:* Clone este repositório para sua máquina local.
 
     bash
     git clone https://github.com/Mamn11/pokedex_flutter.git
     cd pokedex_flutter
     
 
-2. *Instalação:* Instale as dependências necessárias.
+2 - *Instalação:* Instale as dependências necessárias.
 
     bash
     flutter pub get
     
 
-3. *Execução:* Inicie o aplicativo em um dispositivo ou emulador.
+3 -*Execução:* Inicie o aplicativo em um dispositivo ou emulador.
 
     bash
     flutter run
